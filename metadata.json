@@ -1,0 +1,9 @@
+
+{
+  "name": "Attendify AI - Smart Tracker",
+  "description": "A comprehensive attendance tracking and analytics mobile app with integrated Gemini AI features for study advice, voice interaction, and motivational video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
